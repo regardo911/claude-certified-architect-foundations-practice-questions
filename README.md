@@ -4,7 +4,7 @@
 
 The companion to the book *Claude Certified Architect Foundations: 500+ Practice Questions*, from [youcanbuildthings.com](https://youcanbuildthings.com).
 
-![The 11 score sheets in the order you fill them, grouped Start (Chapters 2-3), Drill (4-8), Mock (9-11 and Appendix A) and Decide (12), beside the book's Chapter 12 example verdict: Agentic 84%, Claude Code 88%, Prompt 80%, Tool/MCP 72% and Context 69% against the 75% line, ending "WAIT. Drill Context first."](docs/images/hero.png)
+![The 11 score sheets in the order you fill them, grouped Start (Chapters 2-3), Drill (4-8), Mock (9-11 and Appendix A) and Decide (12), beside a verdict after Mock 3: Agentic 84%, Claude Code 88%, Prompt 80%, Tool/MCP 72% and Context 69% against the 75% line, ending "WAIT. Drill Context first."](docs/images/hero.png)
 
 The questions and keys are in the book. These are the pages you mark them on, already ruled. Two terms from Chapter 2: the *scorecard* has one row per domain, and you fill it after the diagnostic and every drill. The *drill bar* is 75%, the score you want on a set before moving on. It's not the exam's 720 pass mark, and Chapter 2 explains why the two don't convert. Pick your starting point below.
 
